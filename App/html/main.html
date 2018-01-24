@@ -1,0 +1,12 @@
+<section class="section" ng-controller="mainCon">
+    <ol class="ol">
+        <li ng-repeat="i in ols">{{i}}</li>
+    </ol>
+    <div class="dl_div">
+        <dl ng-repeat="i in data" ui-sref="detail({id:i.id})">
+            <dd><img ng-src="../App/img/{{i.img}}" alt=""></dd>
+            <dt>{{i.li}}</dt>
+        </dl>
+    </div>
+
+</section>

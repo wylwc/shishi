@@ -1,0 +1,97 @@
+[{
+    "id": 1,
+    "img": "hg1.jpg",
+    "li": "火锅城欢迎您",
+    "poeple": 500,
+    "meter": 800,
+    "pl": 6.5,
+    "type": "吃 全部"
+}, {
+    "id": 2,
+    "img": "td1.jpg",
+    "li": "Summer甜点欢迎您",
+    "poeple": 600,
+    "meter": 1800,
+    "pl": 7.8,
+    "type": "喝 全部"
+}, {
+    "id": 3,
+    "img": "zzc4.jpg",
+    "li": "火焰山自助火锅欢迎您",
+    "poeple": 800,
+    "meter": 1200,
+    "pl": 5.4,
+    "type": "玩 全部"
+}, {
+    "id": 4,
+    "img": "hg2.jpg",
+    "li": "龙虾火锅欢迎您的到来！",
+    "poeple": 500,
+    "meter": 6100,
+    "pl": 8.2,
+    "type": "吃 全部"
+}, {
+    "id": 5,
+    "img": "td2.jpg",
+    "li": "甜点城欢迎您",
+    "poeple": 511,
+    "meter": 1100,
+    "pl": 5.6,
+    "type": "喝 全部"
+}, {
+    "id": 6,
+    "img": "hg3.jpg",
+    "li": " 虾吃虾涮火锅欢迎您",
+    "poeple": 810,
+    "meter": 900,
+    "pl": 7.4,
+    "type": "吃 全部"
+}, {
+    "id": 7,
+    "img": "td3.jpg",
+    "li": "Spring饮品小店Welcolme you to",
+    "poeple": 1800,
+    "meter": 810,
+    "pl": 4.8,
+    "type": "喝 全部"
+}, {
+    "id": 8,
+    "img": "zzc2.jpg",
+    "li": "烤肉自助欢迎您",
+    "poeple": 800,
+    "meter": 520,
+    "pl": 8.5,
+    "type": "玩 全部"
+}, {
+    "id": 9,
+    "img": "td4.jpg",
+    "li": "Only you 甜品坊欢迎您",
+    "poeple": 910,
+    "meter": 1800,
+    "pl": 4.5,
+    "type": "喝 全部"
+}, {
+    "id": 10,
+    "img": "hg4.jpg",
+    "li": "麻辣小火锅欢迎您，味蕾上的愉悦",
+    "poeple": 700,
+    "meter": 2000,
+    "pl": 8.6,
+    "type": "吃 全部"
+}, {
+    "id": 11,
+    "img": "zzc3.png",
+    "li": "比萨自助餐",
+    "poeple": 600,
+    "meter": 400,
+    "pl": 7.2,
+    "type": "玩 全部"
+}, {
+    "id": 12,
+    "img": "zzc1.jpg",
+    "li": "铁木真自助欢迎您",
+    "poeple": 1500,
+    "meter": 710,
+    "pl": 7.8,
+    "type": "玩 全部"
+}]
